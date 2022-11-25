@@ -1,0 +1,809 @@
+@media only screen and (max-width: 1025px) {
+  .main_banner form {
+    justify-content: center;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 22px rgba(228, 245, 252, 0.3);
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 13px 0 14px 0;
+  }
+  .main_banner form button {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    right: -62px;
+    z-index: 2;
+  }
+  .Our_Service {
+    background-image: url("../img/Bg-new.jpg");
+  }
+  .main_banner form {
+    width: 100%;
+  }
+  input {
+    padding: 12px 8px 12px 26px;
+  }
+  .dropdown {
+    padding: 12px 16px 12px 16px;
+    margin-left: 8px;
+    margin-right: 0;
+  }
+  .ui-widget button {
+    padding: 12px 16px 10px;
+  }
+  .main_banner form {
+    justify-content: center;
+  }
+  .Comments {
+    background: url("../img/New-comments.jpg");
+    background-size: cover;
+  }
+  h2 {
+    font-size: 36px;
+    line-height: 56px;
+  }
+  .Second_banner ul li {
+    font-size: 14px;
+  }
+  .Team .card {
+    max-width: 242px;
+    padding: 10px 6px 20px;
+  }
+  .card-img-team {
+    width: 100%;
+  }
+  .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot {
+    width: 34px;
+    height: 32px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    background-image: url("../img/Nav-icon-3.png");
+    background-size: cover;
+    display: block;
+    padding: 0;
+    font-size: 3em;
+    margin: 0;
+    cursor: pointer;
+    color: #fff;
+    transform: translate(-50%, -50%);
+  }
+  .main_banner form button {
+    position: absolute;
+    top: 50%;
+    margin-top: -27px;
+    right: -74px;
+    z-index: 2;
+  }
+  .Our_Service .card {
+    max-height: 349px;
+  }
+  .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot.owl-nav {
+    width: 34px;
+    height: 32px;
+    position: absolute;
+    left: 34px;
+    top: 50%;
+    background-image: url("../img/Nav-icon-3-prev.png");
+    background-size: cover;
+    display: block;
+    padding: 0;
+    font-size: 3em;
+    margin: 0;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+  }
+  .Banner .container {
+    max-width: 976px;
+  }
+  .Banner .container img {
+    top: -32px;
+  }
+  .under_footer {
+    width: 100%;
+  }
+  .ui-widget button img {
+    width: 34px;
+    height: 32px;
+  }
+}
+@media only screen and (max-width: 993px) {
+  .main_banner form {
+    justify-content: left;
+  }
+  h2 {
+    font-size: 35px;
+    line-height: 54px;
+  }
+  .Second_banner ul li {
+    font-size: 13px;
+  }
+  .Team .card {
+    max-width: 230px;
+  }
+  .Banner .container {
+    max-width: 944px;
+    padding: 82px 452px 92px 118px;
+  }
+  h3 {
+    font-size: 32px;
+  }
+  .Banner .container img {
+    top: -113px;
+  }
+}
+@media only screen and (max-width: 835px) {
+  .main_banner, header {
+    background-image: url("../img/Header-newbg.jpg");
+    background-size: cover;
+  }
+  .progress-container {
+    width: 100%;
+    height: 2px;
+    background: url("../img/New-progres-bar-45.jpg");
+  }
+  .main_banner form {
+    justify-content: center;
+    justify-content: center;
+  }
+  .card-title {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    color: #3D3D3F;
+  }
+  .main_banner .container, .Our_Service .container, .Second_banner .container, .Team .subtext {
+    font-size: 12px;
+    line-height: 24px;
+  }
+  .Comments p {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: #454D5D;
+    width: 100%;
+  }
+  .card-body {
+    padding: 0;
+  }
+  .card-text {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .ui-widget button {
+    padding: 8px 12px 8px;
+  }
+  h1 {
+    font-size: 36px;
+    line-height: 56px;
+  }
+  .main_banner p {
+    max-width: 340px;
+  }
+  .Comments {
+    background: url("../img/New-comments2.jpg");
+    background-size: cover;
+  }
+  input {
+    padding: 8px 8px 8px 12px;
+  }
+  .dropdown {
+    padding: 8px;
+    margin-left: 4px;
+    display: flex;
+    align-items: center;
+  }
+  .main_banner form {
+    width: fit-content;
+    padding: 8px 12px;
+    position: relative;
+  }
+  .main_banner form img {
+    width: 24px;
+    height: 24px;
+  }
+  .Banner .container {
+    padding: 82px 0 92px 118px;
+  }
+  .main_banner form button {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    right: -62px;
+    z-index: 2;
+  }
+  .main_banner p {
+    margin: 12px 0 16px;
+  }
+  .dropdown {
+    margin-right: 0;
+  }
+  h2 {
+    font-size: 29px;
+    line-height: 46px;
+  }
+  .container {
+    font-size: 12px;
+    line-height: 24px;
+  }
+  .Second_banner ul li {
+    font-size: 10px;
+  }
+  .Our_Service .card {
+    max-height: 376px;
+  }
+  .Team .card {
+    max-width: 190px;
+  }
+  footer .first-sectionn ul li a {
+    font-size: 12px;
+  }
+  footer .first-sectionn ul li:first-of-type a {
+    font-size: 14px;
+  }
+  footer h5 {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #323232;
+  }
+  footer p {
+    font-size: 12px;
+  }
+  .Banner .container {
+    max-width: 804px;
+  }
+  .Banner .container img {
+    top: -113px;
+  }
+  navbar-expand-md {
+    z-index: 99;
+    background: white;
+    padding: 0;
+  }
+  .navbar-expand-md .container .navbar-toggler {
+    display: block;
+  }
+  .navbar-brand {
+    z-index: 100;
+  }
+  .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #40A3F8;
+    opacity: unset;
+    margin-bottom: 24px;
+  }
+  .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #40A3F8;
+    opacity: unset;
+    margin-bottom: 24px;
+  }
+  .navbar-light .navbar-nav .btn a {
+    color: #FFFFFF;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 22px;
+    padding: 16px 24px;
+    opacity: unset;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #6E5F5F;
+    mix-blend-mode: normal;
+    opacity: 0.3;
+  }
+  .navbar-collapse {
+    width: 100%;
+    background: url("../img/central_mode_banner.jpg");
+    background-size: cover;
+    position: fixed;
+    z-index: 9;
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: all 0.4s;
+  }
+  .navbar-collapse ul.navbar-nav {
+    position: absolute;
+    top: 50%;
+    margin-top: -126px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .navbar-collapse.show ul li {
+    margin: auto;
+  }
+  .navbar-collapse ul.navbar-nav li {
+    opacity: 0;
+    transition: opacity 0.4s cubic-bezier(0.58, 0.3, 0.005, 1);
+    padding: 0;
+    margin-bottom: 24px;
+  }
+  .navbar-collapse ul.navbar-nav li a {
+    color: white;
+    font-size: 40px;
+    padding: 0;
+  }
+  .navbar-collapse.show {
+    min-height: 100vh;
+    visibility: visible;
+    opacity: 1;
+    z-index: 9;
+  }
+  .navbar-collapse.show ul li {
+    opacity: 1;
+  }
+  .navbar-collapse.show ul li:nth-child(1) {
+    transition-delay: 0.06s;
+  }
+  .navbar-collapse.show ul li:nth-child(2) {
+    transition-delay: 0.12s;
+  }
+  .navbar-collapse.show ul li:nth-child(3) {
+    transition-delay: 0.18s;
+  }
+  .navbar-collapse.show ul li:nth-child(4) {
+    transition-delay: 0.24s;
+  }
+  .navbar-collapse.show ul li:nth-child(5) {
+    transition-delay: 0.3s;
+  }
+  .navbar-collapse.show ul li:nth-child(6) {
+    transition-delay: 0.36s;
+  }
+  .navbar-toggler {
+    padding: 0;
+    z-index: 100;
+  }
+  .navbar-toggler #nav-icon {
+    width: 30px;
+    height: 22px;
+    position: relative;
+    margin: 0 auto;
+    transform: rotate(0deg);
+    cursor: pointer;
+  }
+  .navbar-toggler #nav-icon span {
+    display: block;
+    position: absolute;
+    height: 5px;
+    width: 50%;
+    background: blue;
+    opacity: 1;
+    transform: rotate(0deg);
+    transition: 0.25s ease-in-out;
+  }
+  .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(even) {
+    left: 50%;
+  }
+  .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(odd) {
+    left: 0px;
+  }
+  .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(1), .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(2) {
+    top: 0px;
+  }
+  .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(3), .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(4) {
+    top: 9px;
+  }
+  .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(5), .navbar-toggler[aria-expanded=false] #nav-icon span:nth-child(6) {
+    top: 18px;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(1), .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(6) {
+    transform: rotate(45deg);
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(2), .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(5) {
+    transform: rotate(-45deg);
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(1) {
+    left: 5px;
+    top: 7px;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(2) {
+    left: calc(50% - 5px);
+    top: 7px;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(3) {
+    left: -50%;
+    opacity: 0;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(4) {
+    left: 100%;
+    opacity: 0;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(5) {
+    left: 5px;
+    top: 12px;
+  }
+  .navbar-toggler[aria-expanded=true] #nav-icon span:nth-child(6) {
+    left: calc(50% - 5px);
+    top: 12px;
+  }
+}
+@media only screen and (max-width: 821px) {
+  .Banner .container {
+    max-width: 772px;
+  }
+  .Banner .container img {
+    top: -55px;
+  }
+  .Our_Service .card {
+    max-height: 400px;
+  }
+  .Banner .container {
+    max-width: 790px;
+    padding: 82px 0 92px 30px;
+  }
+  .Banner .container img {
+    top: -113px;
+  }
+}
+@media only screen and (max-width: 801px) {
+  h2 {
+    font-size: 27px;
+    line-height: 44px;
+  }
+  .owl-carousel .owl-stage-outer {
+    overflow: visible;
+    overflow-x: clip;
+  }
+  .Team .card {
+    max-width: 184px;
+  }
+  .Banner .container {
+    max-width: 770px;
+  }
+  .Banner .container img {
+    width: 440px;
+    top: -51px;
+  }
+}
+@media only screen and (max-width: 769px) {
+  .main_banner {
+    background-image: url("../img/Header-newbg.jpg");
+    background-size: cover;
+  }
+  .main_banner form {
+    justify-content: center;
+    position: relative;
+  }
+  .main_banner form button {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    right: -62px;
+    z-index: 2;
+  }
+  header {
+    background-image: url("../img/Header-newbg.jpg");
+    background-size: cover;
+  }
+  .main_banner .align-items-center {
+    text-align: center;
+    display: block;
+    margin: auto;
+  }
+  .Team .card {
+    max-width: 174px;
+  }
+  .Banner .container {
+    max-width: 738px;
+  }
+  .Banner .container img {
+    width: 404px;
+    top: -32px;
+  }
+  .second-col {
+    margin: auto;
+  }
+  .firs-col {
+    margin: 0 auto 32px;
+  }
+  footer .first-sectionn ul li:first-of-type a {
+    font-size: 12px;
+  }
+  footer .first-sectionn ul li a {
+    font-size: 10px;
+  }
+  footer h5 {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #323232;
+  }
+  footer p {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 429px) {
+  .dropdown {
+    margin-right: 0;
+  }
+  .Our_Service .card {
+    position: relative;
+  }
+  .main_banner input {
+    max-width: 36%;
+  }
+  .Our_Service .card:after {
+    width: 100%;
+    content: "";
+    display: inline-block;
+    height: 18px;
+    background: #40A3F8;
+    opacity: 0.5;
+    box-shadow: 0px 4px 120px rgba(0, 0, 0, 0.05);
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  .main_banner, header {
+    background-image: url("../img/Header-newbg.jpg");
+    background-size: cover;
+  }
+  h1 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+  .main_banner {
+    text-align: center;
+  }
+  .dropdown {
+    margin-right: 8px;
+  }
+  .main_banner form {
+    margin: auto;
+    margin-bottom: 60px;
+  }
+  .Team .card:first-of-type, .Team .card:nth-of-type(2) {
+    margin-bottom: 24px;
+  }
+  .main_banner p {
+    justify-content: center;
+    max-width: 92%;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 24px auto 32px;
+  }
+  h3 {
+    font-size: 24px;
+  }
+  .Banner h3 {
+    margin-bottom: 16px;
+    line-height: 36px;
+  }
+  .footer-logos {
+    width: 60%;
+  }
+  .footer-logos img {
+    width: 40px;
+    height: 40px;
+  }
+  .Banner .container img {
+    opacity: 0;
+  }
+  footer h5 {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 30px;
+    color: #323232;
+  }
+  .under_footer p:first-of-type {
+    text-align: center;
+  }
+  .Banner .container {
+    padding: 24px 24px;
+    max-width: 380px;
+  }
+  .Mobile_apps {
+    text-align: center;
+  }
+  .stores {
+    justify-content: center;
+  }
+  .main_banner form button {
+    position: unset;
+    margin-top: unset;
+  }
+  h2 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  .Second_banner {
+    text-align: center;
+  }
+  .Second_banner a {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 24px;
+  }
+  .Team .subtext, .container {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .Second_banner ul {
+    width: fit-content;
+    margin: auto;
+  }
+  .Our_Service p {
+    margin-bottom: 75px;
+  }
+  .footer form {
+    width: 100%;
+  }
+  .ul-2 {
+    margin-right: auto;
+    margin-left: 24px;
+  }
+  .main_banner form {
+    width: fit-content;
+    padding: 8px 4px;
+    position: relative;
+  }
+  .forms p {
+    margin-bottom: 24px;
+  }
+  .Our_Service .card {
+    max-width: 359px;
+  }
+  .main_banner form button {
+    position: absolute;
+    right: 50%;
+    margin-right: -24px;
+    top: 64px;
+    margin-top: unset;
+  }
+  .main_banner input {
+    max-width: 37%;
+  }
+}
+@media only screen and (max-width: 415px) {
+  .forms p {
+    margin-bottom: 24px;
+  }
+  .main_banner input {
+    max-width: 140px;
+    padding: 8px 8px 8px 12px;
+  }
+}
+@media only screen and (max-width: 391px) {
+  .main_banner form {
+    width: 100%;
+    padding: 8px 4px;
+    position: relative;
+    justify-content: center;
+  }
+  .Second_banner p {
+    width: 90%;
+    margin: 24px auto 3px;
+  }
+  .Team .card {
+    margin-bottom: 24px;
+    max-width: 360px;
+  }
+  .Team .card:last-of-type {
+    margin-bottom: 0;
+  }
+  .Banner .container {
+    max-width: 360px;
+  }
+  .main_banner input {
+    max-width: 122px;
+  }
+  .main_banner form button {
+    position: absolute;
+    right: 50%;
+    margin-right: -24px;
+    top: 64px;
+    margin-top: unset;
+  }
+  .main_banner input {
+    max-width: 130px;
+  }
+  .dropdown {
+    margin-right: 0;
+  }
+}
+@media only screen and (max-width: 376px) {
+  .main_banner input {
+    max-width: 100px;
+  }
+  .Banner .container {
+    max-width: 345px;
+  }
+  .main_banner form button {
+    position: absolute;
+    right: 50%;
+    margin-right: -24px;
+    top: 64px;
+    margin-top: unset;
+  }
+  .main_banner input {
+    max-width: 128px;
+  }
+  .dropdown {
+    margin-right: 0;
+  }
+}
+@media only screen and (max-width: 361px) {
+  .Our_Service .card {
+    position: relative;
+  }
+  .Our_Service .card:after {
+    width: 100%;
+    content: "";
+    display: inline-block;
+    height: 18px;
+    background: #40A3F8;
+    opacity: 0.5;
+    box-shadow: 0px 4px 120px rgba(0, 0, 0, 0.05);
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  .main_banner input {
+    max-width: 129px;
+  }
+  .Banner .container {
+    max-width: 330px;
+  }
+  .main_banner form button {
+    position: absolute;
+    right: 50%;
+    margin-right: -24px;
+    top: 64px;
+    margin-top: unset;
+  }
+}
+@media only screen and (max-width: 321px) {
+  .main_banner input {
+    max-width: 60px;
+  }
+  .Comments .card {
+    padding: 21px 24px 32px;
+    box-sizing: border-box;
+    background: linear-gradient(132.1deg, rgba(255, 255, 255, 0.88) 0.65%, #FAFAFA 103.13%);
+    box-shadow: 0px 4px 22px rgba(0, 0, 0, 0.05);
+    position: relative;
+    z-index: 1;
+  }
+  .footer-logos {
+    width: 80%;
+  }
+}
+
+/*# sourceMappingURL=Media.css.map */
